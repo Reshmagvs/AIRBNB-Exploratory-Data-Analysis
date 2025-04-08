@@ -46,8 +46,3 @@ The dataset used in this project is sourced from **Kaggle**:
 - Create a dashboard using Streamlit or Dash for interactive analysis.
 - Perform geospatial analysis on Airbnb listings.
 
-## Contributing
-Feel free to fork this repository and contribute by submitting a pull request.
-
-## License
-This project is licensed under the MIT License.
